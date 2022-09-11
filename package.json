@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "quick.db": "^7.1.3"
+  },
+  "name": "invitetracker",
+  "version": "1.9.9",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "lint": "eslint . --ext .js",
+    "testcfg": "node scripts/verify-config.js"
+  },
+  "devDependencies": {
+    "eslint": "^7.5.0"
+  },
+  "eslintConfig": {
+    "env": {
+      "commonjs": true,
+      "es2020": true,
+      "node": true
+    }
+  },
+  "keywords": [],
+  "author": "kozanostra#4444",
+  "license": "ISC",
+  "description": "A bot tha counts invites"
+}

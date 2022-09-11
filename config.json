@@ -1,0 +1,10 @@
+
+{
+    "token": "TOKEN OF BOT",
+    "prefix": "PREFIX OF YOUR DESIRE",
+    "guild": "GUILD ID",
+    "inviteChannel": "CHANNEL ID FOR SENDING MESSAGE WHEN SOMEONE LEAVE OR JOIN WITH WHO INVITED THE MEMBER"
+}
+
+
+
