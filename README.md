@@ -37,7 +37,7 @@
 
 **I am using prefix `!` as example.You can have whatever prefix you want.**
 
-**Available Commands:** 
+`Available Commands:`
 
 
 **`!addinvites @user amount` Example: `!addinvites @KozaNostra 5`**
@@ -51,7 +51,7 @@
 **`!clearuserinvites @user` Description: `Clear all invites of the user`**
 
 
-**__Enjoy the BOT__**
+`Enjoy the BOT`
 
 
 
