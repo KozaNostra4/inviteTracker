@@ -12,7 +12,7 @@
 
 
 
-**HOW TO USE THE BOT**
+`HOW TO USE THE BOT`
 
 `1.` **Move files to a folder**
 
