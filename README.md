@@ -20,11 +20,13 @@
 
 `3.` **Open PowerShell window here**
 
-`4.` **In PowerShell window press `node i`**
+`4` **Press in PowerShell** `npm init -y`
 
-`5.` **When the installation is finished press again in PowerShell window `clear` so console will be clear.**
+`5.` **In PowerShell window press `node i`**
 
-`6.` **When the console will be cleaned press `node .`**
+`6.` **When the installation is finished press again in PowerShell window `clear` so console will be clear.**
+
+`7.` **When the console will be cleaned press `node .`**
 
 
 
