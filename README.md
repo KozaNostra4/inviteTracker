@@ -1,5 +1,5 @@
-# inviteTracker
-**Custom Invite Tracker**
+`BOT IS VALID WITH DISCORD.JS VERSION 13. DO npm i discord.js@v13`
+
 
 
 
